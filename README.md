@@ -1,6 +1,6 @@
 # inf3105-utilsation-cmake
 
-Ceci est un exemple de template de CMAKE qui peut-être utilisé lors du cadre du cours INF3105 pour utilisation cross-platform et/ou avec CLion. 
+Ceci est un exemple de template CMAKE que j'ai personnellement utilisé lors du cadre du cours INF3105 pour utilisation cross-platform et/ou avec CLion. 
 Ceci ne doit en **AUCUN CAS** remplacer les `Makefiles` donnés lors des TPs.
 
 
